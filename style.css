@@ -3003,6 +3003,19 @@ nav.main-navigation ul li:hover > ul {
   background: #f1f1f1;
   margin-top: 30px;
   overflow: hidden;
+  cursor: pointer;
+}
+
+.portfolio .portfolio-image {
+  position: relative;
+}
+
+.portfolio .portfolio-image a{
+  position: absolute;
+  bottom: 0px;
+  background-color: #F6F6F6;
+  opacity: 0.7;
+  width: 100%;
 }
 
 .portfolio .portfolio-image img {
