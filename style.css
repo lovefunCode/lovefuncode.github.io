@@ -3004,6 +3004,7 @@ nav.main-navigation ul li:hover > ul {
   margin-top: 30px;
   overflow: hidden;
   cursor: pointer;
+  border: 1px solid lightgray;
 }
 
 .portfolio .portfolio-image {
@@ -3014,7 +3015,7 @@ nav.main-navigation ul li:hover > ul {
   position: absolute;
   bottom: 0px;
   background-color: #F6F6F6;
-  opacity: 0.6;
+  opacity: 0.8;
   width: 100%;
 }
 
